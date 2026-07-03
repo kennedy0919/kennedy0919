@@ -52,8 +52,8 @@ motto: "정확하게 천천히 가는 게 가장 빠른 길"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kennedy0919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy0919&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="165" />
+<img src="https://github-readme-stats-ashen-seven-rwfcxvwlxf.vercel.app/api?username=kennedy0919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+<img src="https://github-readme-stats-ashen-seven-rwfcxvwlxf.vercel.app/api/top-langs/?username=kennedy0919&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="165" />
 
 <br/><br/>
 
@@ -99,7 +99,7 @@ motto: "정확하게 천천히 가는 게 가장 빠른 길"
 <td width="50%" valign="top">
 
 ### 🏠 Pinterior
-**인테리어 커뮤니티 — 백엔드 팀 리드**
+**인테리어 커뮤니티**
 - 태그 다대다(N:M) 갱신 설계 주도
 - `Spring Boot` `MyBatis` `Oracle`
 
@@ -117,7 +117,7 @@ motto: "정확하게 천천히 가는 게 가장 빠른 길"
 <td width="50%" valign="top">
 
 ### 🏢 KEAD
-**장애인고용공단 프로젝트**
+**어린이 독서 추천 프로젝트**
 - Spring Security 기반 인증/인가
 - `Spring Boot` `JPA` `Spring Security`
 
@@ -128,10 +128,10 @@ motto: "정확하게 천천히 가는 게 가장 빠른 길"
 <div align="center">
 
 <a href="https://github.com/kennedy0919/Trigger">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy0919&repo=Trigger&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
+<img src="https://github-readme-stats-ashen-seven-rwfcxvwlxf.vercel.app/api/pin/?username=kennedy0919&repo=Trigger&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
 </a>
 <a href="https://github.com/kennedy0919/KEAD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy0919&repo=KEAD&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
+<img src="https://github-readme-stats-ashen-seven-rwfcxvwlxf.vercel.app/api/pin/?username=kennedy0919&repo=KEAD&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
 </a>
 
 </div>
@@ -142,7 +142,7 @@ motto: "정확하게 천천히 가는 게 가장 빠른 길"
 
 <div align="center">
 
-<a href="mailto:kennedy1234@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/kennedy0919"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
